@@ -1,0 +1,9 @@
+c:\Users\siyabonga\documents\visual studio 2015\Projects\GMS\GMS.Data.Models\bin\Debug\GMS.Data.Models.dll
+c:\Users\siyabonga\documents\visual studio 2015\Projects\GMS\GMS.Data.Models\bin\Debug\GMS.Data.Models.pdb
+c:\Users\siyabonga\documents\visual studio 2015\Projects\GMS\GMS.Data.Models\obj\Debug\GMS.Data.Models.csprojResolveAssemblyReference.cache
+c:\Users\siyabonga\documents\visual studio 2015\Projects\GMS\GMS.Data.Models\obj\Debug\GMS.Data.Models.dll
+c:\Users\siyabonga\documents\visual studio 2015\Projects\GMS\GMS.Data.Models\obj\Debug\GMS.Data.Models.pdb
+C:\Users\Sia\Dropbox\GMS\GMS.Data.Models\bin\Debug\GMS.Data.Models.dll
+C:\Users\Sia\Dropbox\GMS\GMS.Data.Models\bin\Debug\GMS.Data.Models.pdb
+C:\Users\Sia\Dropbox\GMS\GMS.Data.Models\obj\Debug\GMS.Data.Models.dll
+C:\Users\Sia\Dropbox\GMS\GMS.Data.Models\obj\Debug\GMS.Data.Models.pdb

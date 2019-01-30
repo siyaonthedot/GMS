@@ -1,0 +1,9 @@
+c:\Users\siyabonga\documents\visual studio 2015\Projects\GMS\GMS.Services.Web\bin\Debug\GMS.Services.Web.dll
+c:\Users\siyabonga\documents\visual studio 2015\Projects\GMS\GMS.Services.Web\bin\Debug\GMS.Services.Web.pdb
+c:\Users\siyabonga\documents\visual studio 2015\Projects\GMS\GMS.Services.Web\obj\Debug\GMS.Services.Web.csprojResolveAssemblyReference.cache
+c:\Users\siyabonga\documents\visual studio 2015\Projects\GMS\GMS.Services.Web\obj\Debug\GMS.Services.Web.dll
+c:\Users\siyabonga\documents\visual studio 2015\Projects\GMS\GMS.Services.Web\obj\Debug\GMS.Services.Web.pdb
+C:\Users\Sia\Dropbox\GMS\GMS.Services.Web\bin\Debug\GMS.Services.Web.dll
+C:\Users\Sia\Dropbox\GMS\GMS.Services.Web\bin\Debug\GMS.Services.Web.pdb
+C:\Users\Sia\Dropbox\GMS\GMS.Services.Web\obj\Debug\GMS.Services.Web.dll
+C:\Users\Sia\Dropbox\GMS\GMS.Services.Web\obj\Debug\GMS.Services.Web.pdb

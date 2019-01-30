@@ -1,0 +1,20 @@
+c:\Users\siyabonga\documents\visual studio 2015\Projects\GMS\GMS.Data\bin\Debug\GMS.Data.dll.config
+c:\Users\siyabonga\documents\visual studio 2015\Projects\GMS\GMS.Data\bin\Debug\GMS.Data.dll
+c:\Users\siyabonga\documents\visual studio 2015\Projects\GMS\GMS.Data\bin\Debug\GMS.Data.pdb
+c:\Users\siyabonga\documents\visual studio 2015\Projects\GMS\GMS.Data\bin\Debug\EntityFramework.dll
+c:\Users\siyabonga\documents\visual studio 2015\Projects\GMS\GMS.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\siyabonga\documents\visual studio 2015\Projects\GMS\GMS.Data\bin\Debug\EntityFramework.xml
+c:\Users\siyabonga\documents\visual studio 2015\Projects\GMS\GMS.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\siyabonga\documents\visual studio 2015\Projects\GMS\GMS.Data\obj\Debug\GMS.Data.csprojResolveAssemblyReference.cache
+c:\Users\siyabonga\documents\visual studio 2015\Projects\GMS\GMS.Data\obj\Debug\GMS.Data.dll
+c:\Users\siyabonga\documents\visual studio 2015\Projects\GMS\GMS.Data\obj\Debug\GMS.Data.pdb
+C:\Users\Sia\Dropbox\GMS\GMS.Data\bin\Debug\GMS.Data.dll.config
+C:\Users\Sia\Dropbox\GMS\GMS.Data\bin\Debug\GMS.Data.dll
+C:\Users\Sia\Dropbox\GMS\GMS.Data\bin\Debug\GMS.Data.pdb
+C:\Users\Sia\Dropbox\GMS\GMS.Data\bin\Debug\EntityFramework.dll
+C:\Users\Sia\Dropbox\GMS\GMS.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sia\Dropbox\GMS\GMS.Data\bin\Debug\EntityFramework.xml
+C:\Users\Sia\Dropbox\GMS\GMS.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sia\Dropbox\GMS\GMS.Data\obj\Debug\GMS.Data.csprojResolveAssemblyReference.cache
+C:\Users\Sia\Dropbox\GMS\GMS.Data\obj\Debug\GMS.Data.dll
+C:\Users\Sia\Dropbox\GMS\GMS.Data\obj\Debug\GMS.Data.pdb

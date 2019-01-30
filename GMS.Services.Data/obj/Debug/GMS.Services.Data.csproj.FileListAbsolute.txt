@@ -1,0 +1,18 @@
+c:\Users\siyabonga\documents\visual studio 2015\Projects\GMS\GMS.Services.Data\bin\Debug\GMS.Services.Data.dll
+c:\Users\siyabonga\documents\visual studio 2015\Projects\GMS\GMS.Services.Data\bin\Debug\GMS.Services.Data.pdb
+c:\Users\siyabonga\documents\visual studio 2015\Projects\GMS\GMS.Services.Data\obj\Debug\GMS.Services.Data.csprojResolveAssemblyReference.cache
+c:\Users\siyabonga\documents\visual studio 2015\Projects\GMS\GMS.Services.Data\obj\Debug\GMS.Services.Data.dll
+c:\Users\siyabonga\documents\visual studio 2015\Projects\GMS\GMS.Services.Data\obj\Debug\GMS.Services.Data.pdb
+C:\Users\siyabonga\Documents\visual studio 2015\Projects\GMS\GMS.Services.Data\bin\Debug\GMS.Data.dll
+C:\Users\siyabonga\Documents\visual studio 2015\Projects\GMS\GMS.Services.Data\bin\Debug\EntityFramework.dll
+C:\Users\siyabonga\Documents\visual studio 2015\Projects\GMS\GMS.Services.Data\bin\Debug\GMS.Data.pdb
+C:\Users\siyabonga\Documents\visual studio 2015\Projects\GMS\GMS.Services.Data\bin\Debug\EntityFramework.xml
+C:\Users\Sia\Dropbox\GMS\GMS.Services.Data\obj\Debug\GMS.Services.Data.csprojResolveAssemblyReference.cache
+C:\Users\Sia\Dropbox\GMS\GMS.Services.Data\bin\Debug\GMS.Services.Data.dll
+C:\Users\Sia\Dropbox\GMS\GMS.Services.Data\bin\Debug\GMS.Services.Data.pdb
+C:\Users\Sia\Dropbox\GMS\GMS.Services.Data\bin\Debug\GMS.Data.dll
+C:\Users\Sia\Dropbox\GMS\GMS.Services.Data\bin\Debug\EntityFramework.dll
+C:\Users\Sia\Dropbox\GMS\GMS.Services.Data\bin\Debug\GMS.Data.pdb
+C:\Users\Sia\Dropbox\GMS\GMS.Services.Data\bin\Debug\EntityFramework.xml
+C:\Users\Sia\Dropbox\GMS\GMS.Services.Data\obj\Debug\GMS.Services.Data.dll
+C:\Users\Sia\Dropbox\GMS\GMS.Services.Data\obj\Debug\GMS.Services.Data.pdb
